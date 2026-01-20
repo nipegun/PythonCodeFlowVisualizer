@@ -1,6 +1,6 @@
 # PythonCodeFlowVizualizer
 
-Visualizador de flujo de código python
+Visualizador de flujo de código python.
 
 ## Ejecución remota
 
